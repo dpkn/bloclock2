@@ -1,0 +1,18 @@
+{
+  "name": "bloclock-server",
+  "version": "1.0.0",
+  "description": "Artnet server for bloclock",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "artnet": "^1.4.0",
+    "googleapis": "^52.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
